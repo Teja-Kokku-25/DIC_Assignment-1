@@ -1,0 +1,4 @@
+analysis_category,field_name,total,non_null,completeness_pct
+DATA_QUALITY,CVE IDs,33343,0,0.00
+DATA_QUALITY,Dates,33343,33342,100.00
+DATA_QUALITY,Titles,33343,0,0.00

@@ -1,0 +1,5 @@
+analysis_category,analysis_name,metric_value,metric_description
+EXECUTIVE_SUMMARY,Unique CVEs,0,After Deduplication
+EXECUTIVE_SUMMARY,Published,33125,Successfully Published
+EXECUTIVE_SUMMARY,Rejected,218,Rejected CVEs
+EXECUTIVE_SUMMARY,Overview,33343,Total Records
